@@ -11,13 +11,32 @@
             "id": "8cb39bbddbd01421",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "前端笔记/进阶/前端工程化/vite构建工具/vite配置文件.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "vite配置文件"
+            }
+          },
+          {
+            "id": "4bf364986746842c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端笔记/进阶/浏览器/iframe cookie 刷新丢失问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iframe cookie 刷新丢失问题"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,25 +198,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e9dc52fd86db90b6",
+  "active": "4bf364986746842c",
   "lastOpenFiles": [
-    "前端笔记/基础知识/css/Flexbox.md",
+    "前端笔记/进阶/浏览器/白屏方案.md",
+    "前端笔记/进阶/浏览器/iframe cookie 刷新丢失问题.md",
+    "前端笔记/进阶/前端工程化/vite构建工具/vite配置文件.md",
+    "前端笔记/进阶/前端工程化/webpack构建工具/webpack 配置文件.md",
+    "前端笔记/进阶/前端工程化/脚手架/脚手架结构.md",
+    "前端笔记/进阶/前端工程化/代码规范/React规范.md",
+    "前端笔记/基础知识/html/shadow dom.md",
+    "前端笔记/基础知识/html/标签.md",
     "前端笔记/基础知识/css/Grid.md",
+    "前端笔记/基础知识/css/Flexbox.md",
     "前端笔记/基础知识/js/事件循环.md",
     "前端笔记/基础知识/css/盒模型.md",
     "漫剧/出租屋内的打工人/提示词.md",
     "炉石传说/贼卡组.md",
     "炉石传说/瞎子卡组.md",
     "炉石传说/萨满卡组.md",
-    "前端笔记/进阶/前端工程化/vite构建工具/vite配置文件.md",
     "前端笔记/进阶/前端工程化/Git版本控制/Git规范.md",
-    "前端笔记/进阶/前端工程化/代码规范/React规范.md",
-    "前端笔记/进阶/前端工程化/脚手架/脚手架结构.md",
     "前端笔记/进阶/浏览器/dom.md",
     "前端笔记/进阶/浏览器/bom.md",
     "前端笔记/进阶/浏览器/渲染过程.md",
-    "前端笔记/基础知识/html/shadow dom.md",
-    "前端笔记/基础知识/html/标签.md",
     "前端笔记/基础知识/图片/标准盒模型.png",
     "前端笔记/基础知识/图片/IE盒模型.png",
     "漫剧/出租屋内的打工人/图片资源/床上叹息.jpg",
@@ -205,11 +227,8 @@
     "前端笔记/基础知识/js/原始值类型.md",
     "前端笔记/基础知识/js/未命名.md",
     "前端笔记/进阶/浏览器/缓存.md",
-    "前端笔记/进阶/浏览器/白屏方案.md",
     "openclaw/安装教程/mac安装openclaw.md",
     "openclaw/安装教程/linux 安装教程.md",
-    "前端笔记/进阶/移动端/单位.md",
-    "前端笔记/进阶/移动端/兼容性.md",
     "炉石传说/萨满卡组",
     "炉石传说/盗贼卡组",
     "炉石传说",
